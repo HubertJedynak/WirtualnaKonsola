@@ -1,4 +1,4 @@
-# WirtualnaKonsole
+# WirtualnaKonsola
 
 Projekt "UDPPad" jest aplikacją na telefon z systemem Android (bezpiecznie w wersji 7.0). 
 Projekt można uruchomić w środowisku programistycznym "Android Studio".
